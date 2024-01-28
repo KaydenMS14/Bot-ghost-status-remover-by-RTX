@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Your Links","Listening to the developer","Playing Generate Links"];
+const statusMessages = ["Watching Your Links","Listening to the logs","Playing Grand Theft Auto VI"];
 
 
 let currentIndex = 0;
