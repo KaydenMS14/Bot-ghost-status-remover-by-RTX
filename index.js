@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to Powered by Interstellar"];
+const statusMessages = ["Powered by Interstellar"];
 
 
 let currentIndex = 0;
