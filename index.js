@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = [".gg/darkturns Powered By Interstellar",".gg/darkturns Go Interstellar!","Created by Dark_Turns and Bubbo",".gg/darkturns Meet the creators!",];
+const statusMessages = [".gg/darkturns Powered By Interstellar!",".gg/darkturns Go Interstellar!","Created by Dark_Turns and Bubbo.",".gg/darkturns Meet the creators!",];
 
 
 let currentIndex = 0;
